@@ -2,7 +2,7 @@
 
 @section('main')
  <div class="qxp-higered text-center">
-    <img src="{{asset('images/logo/bgAsset7.svg')}}" style="margin-top: 100px 0px" width="300" height="200">
+    <img class="qxp-logo" src="{{asset('images/logo/bgAsset7.svg')}}" style="margin-top: 100px 0px" width="300" height="200">
  </div>
 
  <div class="container">

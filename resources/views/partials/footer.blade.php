@@ -5,7 +5,7 @@
          <p>TRY QXP FREE FOR 14 DAYS</p>
          <h3>Empower Teams, Students & Workforce</h3>
          </div>
-         <div class="col-md-4" style="margin-top: 100px">
+         <div class="col-md-4 my-footer">
             <div class="row">
                   <button class="btn btn-primary">SIGN UP ITS FREE</button>
                   <button class="btn btn-warning" style="margin-left: 6px;">SEE PRICING</button>
@@ -14,6 +14,7 @@
       </div>
     </div>
      <hr style="border-top: 1px solid #fff">
+  
      <div class="container">
       <div class="row">         <!-- End Col -->        
          <div class="col-6 col-md-3" style="margin-top:10px">
@@ -71,6 +72,7 @@
                <!-- End Col -->         
       </div>
    </div>
+  
   <!-- End Contact Container -->
 
 
